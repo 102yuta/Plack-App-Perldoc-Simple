@@ -67,7 +67,7 @@ sub perldoc {
 		return [ 200, [ 'Content-Type' => 'text/html' ], [ $html ], ];
 	}
 	[ 200, [ 'Content-Type' => 'text/plain' ], [
-		  "No documentation found for for '$page'\n", @err ], ];
+		  "No documentation found for '$page'\n", @err ], ];
 
 =begin comment
 
