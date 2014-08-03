@@ -1,0 +1,6 @@
+Revision history for Perl extension Plack::Perldoc::App::Simple.
+
+0.01  Sun Aug  3 10:57:07 2014
+	- original version; created by h2xs 1.23 with options
+		-AXn Plack::Perldoc::App::Simple
+

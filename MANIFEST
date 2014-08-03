@@ -1,0 +1,11 @@
+.gitignore
+Changes
+lib/Plack/App/Perldoc/JA/Simple.pm
+lib/Plack/App/Perldoc/Simple.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+sample/app.psgi
+t/Plack-App-Perldoc-JA-Simple.t
+t/Plack-App-Perldoc-Simple.t

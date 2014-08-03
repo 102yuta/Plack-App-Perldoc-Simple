@@ -1,0 +1,8 @@
+*~
+*.old
+MYMETA.*
+Makefile
+blib/
+pm_to_blib
+cover_db/
+*.bak
