@@ -1,0 +1,9 @@
+<html>
+  <head>
+	<title>[% title %]</title>
+	<link rel="stylesheet" type="text/css" title="stylesheet" href="screen.css">
+  </head>
+  <body class='man'>
+	[% content %]
+  </body>
+</html>
